@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menus/MainMenu.unity
+    guid: 747a3e5d8f25f0d41bfb336c7ccffabf
+  - enabled: 1
+    path: Assets/Scenes/Menus/NewGame.unity
+    guid: 2d6857b8039eb4942be7eea4f69a9a15
+  - enabled: 1
+    path: Assets/Scenes/Menus/LoadGame.unity
+    guid: 9af402e222ae8ae4192f0a69ba0f43c6
+  - enabled: 1
+    path: Assets/Scenes/Menus/SaveGame.unity
+    guid: b08decc60a617104799800e226fba592
+  - enabled: 1
+    path: Assets/Scenes/Menus/GameOver.unity
+    guid: edf0f2450da0f4c4db66ff4e0384942f
+  - enabled: 1
+    path: Assets/Scenes/Base/Base.unity
+    guid: 9afc69bd7a07b0844862c9dd6f52d196
+  - enabled: 1
+    path: Assets/Scenes/Base/Map.unity
+    guid: 27ed00064a1397442be0cb0111056f67
+  - enabled: 1
+    path: Assets/Scenes/Levels/Castle.unity
+    guid: 811117b1306acc54db039689212787ab
+  - enabled: 0
+    path: 
+    guid: 99255d658a208964cb3cca34ed44e7a0
+  - enabled: 0
+    path: 
+    guid: 335c50c1c0db7e84e90105ea253efb98

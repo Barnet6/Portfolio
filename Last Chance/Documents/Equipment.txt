@@ -1,0 +1,127 @@
+Weapons
+
+-Weapons provide boosts to physical and magical attacks
+
+--Knife
+   
+-small, one handed weapon
+   
+-low physical damage
+   
+-small boost to speed
+   
+-can be used in either hand with duel-wield
+
+--Shortsword
+   
+-moderate, one handed weapon
+   
+-moderate physical damage
+   
+-can be used in main hand with duel-wield
+
+--Broadsword
+   
+-large, two handed weapon
+   
+-high physical damage
+   
+-cannot be used with duel-wield
+
+--Axe
+   
+-moderate, one handed weapon
+   
+-moderate physical damage
+   
+-can be used in main hand with duel-wield
+
+--Hammer
+   
+-small, one handed weapon
+   
+-moderate physical damage
+   
+-can be used in either hand with duel-wield
+
+--War Hammer
+   
+-large, two handed weapon
+   
+-high physical damage
+   
+-cannot be used with diel-wield
+
+--Rod
+   
+-large, two handed weapon
+   
+-boosts intellect
+   
+-cannot be used with diel-wield
+
+--Staff
+   
+-large, two handed weapon
+   
+-boosts spirit
+   
+-cannot be used with diel-wield
+
+--Short Bow
+   
+-small, two handed weapon
+   
+-moderate physical damage
+   
+-moderate range
+   
+-cannot be used with diel-wield
+
+--Long Bow
+   
+-large, two handed weapon
+   
+-moderate physical damage
+   
+-high range
+   
+-cannot be used with diel-wield
+
+Armor
+
+-Armor provides boosts to physical and magical defense
+
+--Plate Armor
+   
+-very large boost to physical defense
+   
+-small penalty to agility
+
+--Chain Mail
+   
+-large boost to physical defense
+
+--Leather Jerkin
+   
+-moderate boost to physical defense
+   
+-moderate boost to agility
+
+--Robe
+   
+-tiny boost to physical defense
+   
+-large boost to magical defense
+
+--Ninja Suit
+   
+-small boost to physical defense
+   
+-large boost to agility
+   
+-small boost to luck
+
+Charms
+
+-Charms cause various effects, from boosting attributes, to preventing damage, to granting immunities

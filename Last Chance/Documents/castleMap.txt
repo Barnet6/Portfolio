@@ -1,0 +1,38 @@
+pcfcffcfcy
+
+pwfwffwfwp
+
+pwfwffwfwy
+
+pwfwwfwfwy
+
+pwfwwgwfwp
+
+ywffffffwp
+
+pwwwwgwwwp
+
+ppxxxpyppp
+
+yppyxxbxxp
+
+yypppppxxx
+
+
+
+
+p = plains
+
+c = cracked wall
+
+w = wall
+
+f = floor
+
+g = gate
+
+b = bridge
+
+x = water
+
+y = forest
